@@ -1,5 +1,5 @@
 # 💫 About Me:
-I.'m currently working on Mobile Application Development using Flutter and MERNSTACK Web Development<br>I'm  Currently Pursuing B.Tech in CSE at Aditya College of Engineering and Technology.<br>
+Aspiring Computer Science Engineer with a passion for developing innovative software solutions. Skilled in Java, Flutter, and MERN stack, with hands-on experience in mobile and full-stack development. I enjoy solving complex problems using data structures and algorithms and have successfully built several projects using modern technologies.I am always eager to learn and grow. Outside of coding, I volunteer for tech-related community events and love exploring sci-fi media.<br>
 
 
 ## 🌐 Socials:
