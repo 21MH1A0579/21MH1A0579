@@ -1,5 +1,9 @@
-# 💫 About Me:
-#### Aspiring **Computer Science Engineer** with a passion for creating innovative software solutions. I specialize in **Java, Flutter,** and the **MERN stack**, and I have hands-on experience in mobile application development and full-stack projects. My love for problem-solving drives me to work with **data structures and algorithms** to build efficient, scalable systems. I'm continuously learning and evolving with the latest technologies. Currently, I'm diving deep into **API development** and **Microservices** architecture. Outside of coding, I actively **volunteer for tech-related community events** and enjoy exploring **sci-fi media**. 
+## 💫 About Me
+
+I am an aspiring **Computer Science Engineer** driven by a deep passion for crafting innovative software solutions. Specializing in **Java**, **Flutter**, and the **MERN stack**, I thrive in building intuitive mobile applications and scalable full-stack projects. My love for problem-solving fuels my exploration of **data structures and algorithms**, always aiming to create efficient, high-performing systems.
+
+Currently, I’m diving deep into **API development** and **Microservices architecture**, always eager to learn and embrace the latest technologies. Outside of code, I actively engage in **tech community events** and cherish moments spent exploring the vast universe of **sci-fi media**. 🚀
+
 
 
 
@@ -18,5 +22,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=21MH1A0579&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
