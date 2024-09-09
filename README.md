@@ -1,5 +1,9 @@
-# 💫 About Me:
-I am an aspiring Computer Science Engineer driven by a deep passion for crafting innovative software solutions. Specializing in Java, Flutter, and the MERN stack, I thrive in building intuitive mobile applications and scalable full-stack projects. My love for problem-solving fuels my exploration of data structures and algorithms, always aiming to create efficient, high-performing systems.<br><br>Currently, I’m diving deep into API development and Microservices architecture, always eager to learn and embrace the latest technologies. Outside of code, I actively engage in tech community events and cherish moments spent exploring the vast universe of sci-fi media. 🚀
+## 💫 About Me
+
+I am an aspiring **Computer Science Engineer** driven by a deep passion for crafting innovative software solutions. Specializing in **Java**, **Flutter**, and the **MERN stack**, I thrive in building intuitive mobile applications and scalable full-stack projects. My love for problem-solving fuels my exploration of **data structures and algorithms**, always aiming to create efficient, high-performing systems.
+
+Currently, I’m diving deep into **API development** and **Microservices architecture**, always eager to learn and embrace the latest technologies. Outside of code, I actively engage in **tech community events** and cherish moments spent exploring the vast universe of **sci-fi media**. 🚀
+
 
 
 ## 🌐 Socials:
